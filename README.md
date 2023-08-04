@@ -2,6 +2,8 @@
 Popular word guessing game, made in python-code
 
 **code consist of two versions, one with single letter game, and below that is multiple letter code of the game**
+
+
 1- Game consist of 5 words, if you guessed the first word right, it will ask you to guess the 2nd word untill you reach total 5 words limit in the game.
 
 2- however if you typed a wrong letter from the gussing word, it will tell you how many wrong attempts your are left with.
